@@ -1,0 +1,186 @@
+h1{
+    text-align:center;
+    
+}
+div {
+    
+        width: 700px;
+        height: 600px;
+        padding: 50px;
+        border: 1px solid black;
+        box-sizing: border-box;
+      }
+
+body {
+    margin: auto;
+    max-width:650px;
+    padding: 70px;
+    background-color: bisque;
+}
+
+img{
+    height:650px;
+    width:500px;
+    border-radius: 20%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 10px 60px 10px rgb(214, 158, 255);
+  
+}
+
+
+.link1:hover { color: rgb(255, 0, 150) ; background-color: cornsilk;}
+   
+   .link1{
+    text-align: center;
+    display:block;
+   margin: 0 auto; }
+
+
+.link2:hover { color: #6fffcf; background-color: cornsilk;}
+.link2{
+    text-align: center;
+   display: block;
+   margin: 0 auto; }
+
+.link3:hover { color: rgb(214, 158, 255) ; background-color: cornsilk; }
+.link3{
+    text-align: center;
+   display: block;
+   margin: 0 auto; }
+
+
+body
+{
+    font-family: "Times New Roman", sans-serif;
+}
+
+.header
+{
+    font-family:"Cosmic Sans Ms", cursive;
+    font-size: 40px;
+}
+
+
+
+.verse
+{
+    text-align: right;
+    text-shadow: 1px 1px #7e0000;
+line-height: 9.0;
+}
+
+.Heading
+{
+    text-align:center;
+    font-weight:bold;
+    font-size: 35px;
+    font-family:"pacifico", cursive;
+}
+
+.left.line-height.first-letter::first-letter
+{
+
+    font-size: 200%;
+    
+}
+.quote::first-line
+{
+    font-weight:bold;
+
+    text-align: justify; 
+
+    line-height:4.0;
+}
+footer
+{
+    text-align:right;
+    font-weight:bold;
+    border: 50%;
+    line-height:50.5;
+}
+
+/* Contact css*/
+
+input[type=text], select, textarea 
+{
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid white; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+  
+  input[type=submit] 
+  {
+    background-color: lightgreen;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  input[type=submit]:hover {
+    background-color: darkgreen;
+  }
+  
+  
+  .container 
+  {
+    border-radius: 5px;
+    background-color: rgb(133, 138, 196);
+    padding: 20px;
+  }
+
+  .body1
+{
+    font-family:"Cosmic Sans Ms", cursive;
+    font-size: 40px;
+}
+
+
+  /*font awsome css*/
+  
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  
+  .fa:hover {
+    opacity: 0.9;
+  }
+  
+  
+  
+ 
+  .fa-facebook {
+    background: #416786;
+    color: white;
+  }
+  
+  .fa-twitter
+   {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #d15bae;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: white;
+    color: red;
+  }
+  
